@@ -24,8 +24,7 @@ namespace StPatricksDay.Customs.Appliances
                 Maximum = 1,
                 PreventReturns = true,
                 AutoPlaceOnHolder = true,
-                ProvidedItem = GDOUtils.GetCustomGameDataObject<EmptyCoinTray>().ID,
-                ProvidedComponents = new ItemList(GDOUtils.GetCustomGameDataObject<EmptyCoinTray>().ID)
+                Item = GDOUtils.GetCustomGameDataObject<EmptyCoinTray>().ID
             }
         };
 

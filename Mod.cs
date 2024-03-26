@@ -19,7 +19,7 @@ namespace StPatricksDay
     {
         public const string MOD_GUID = "com.starfluxgames.stpatricksday";
         public const string MOD_NAME = "Kiss Me I'm Irish";
-        public const string MOD_VERSION = "0.1.1";
+        public const string MOD_VERSION = "0.1.2";
         public const string MOD_AUTHOR = "StarFluxGames";
         public const string MOD_GAMEVERSION = ">=1.1.9";
 

@@ -20,8 +20,7 @@ namespace StPatricksDay.Customs.Appliances
             {
                 Available = -1,
                 Maximum = -1,
-                ProvidedItem = GDOUtils.GetCustomGameDataObject<GoldFoil>().ID,
-                ProvidedComponents = new ItemList(GDOUtils.GetCustomGameDataObject<GoldFoil>().ID)
+                Item = GDOUtils.GetCustomGameDataObject<GoldFoil>().ID
             }
         };
 

@@ -31,8 +31,7 @@
 	<ItemGroup>
 		<Publicize Include="KitchenMode:Kitchen.LimitedItemSourceView.Items" />
 		<Publicize Include="KitchenMode:Kitchen.LimitedItemSourceView.DisplayedItems" />
-		<Publicize Include="KitchenMode:Kitchen.AttachmentView.EffectLookups" />
-		<Publicize Include="KitchenMode:Kitchen.AttachmentView.OrientedObjects" />
+		<Publicize Include="Kitchen.Common:Kitchen.CItemProvider.Item" />
 	</ItemGroup>
 
 	<ItemGroup>

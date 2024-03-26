@@ -7,6 +7,9 @@ using Kitchen;
 
 namespace StPatricksDay.Patches
 {
+    /*
+     * This patch adds a check if the Customer is seated at a Clover Table, if so, it will calculate the Lucky Income
+     */
     [HarmonyPatch]
     public class GroupHandleAwaitingOrderPatch
     {
